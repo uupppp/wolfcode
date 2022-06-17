@@ -21,7 +21,7 @@
         <druid.version>1.1.21</druid.version>
         <java.version>1.8</java.version>
         <mysql.version>8.0.18</mysql.version>
-        <hutool-all.version>4.5.13</hutool-all.version>
+        <hutool-all.version>5.3.2</hutool-all.version>
         <guava.version>27.1-jre</guava.version>
         <mybatis-plus.version>3.3.1</mybatis-plus.version>
         <jquery.version>3.3.1-2</jquery.version>
