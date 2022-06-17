@@ -24,6 +24,13 @@
             <artifactId>thumbnailator</artifactId>
             <version>${thumbnailator.version}</version>
         </dependency>
+        <!--  google 工具包 link-ahsj-core 使用system作用域时此项需要 -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
+        </dependency>
+
         <!-- 核心依赖 -->
         <dependency>
             <groupId>link.ahsj</groupId>
