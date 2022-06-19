@@ -18,6 +18,12 @@
     </properties>
 
     <dependencies>
+        <!-- 代码生成器 -->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-generator</artifactId>
+            <version>${mybatis-plus-generator}</version>
+        </dependency>
         <!-- 图片操作 -->
         <dependency>
             <groupId>net.coobird</groupId>

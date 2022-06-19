@@ -16,6 +16,7 @@
     <description>ahsj</description>
 
     <properties>
+        <mybatis-plus-generator>3.3.1</mybatis-plus-generator>
         <link-ahsj.version>2.1.5-SNAPSHOT</link-ahsj.version>
         <thumbnailator.version>0.4.8</thumbnailator.version>
         <druid.version>1.1.21</druid.version>
